@@ -1,1 +1,1 @@
-pytest -n=auto --html=Html_reports\my_firefoxreport_31st_jan_2026.html --browser firefox -k --alluredir=AllureReports
+pytest -n=auto --html=Html_reports\my_firefoxreport_31st_jan_2026.html --browser firefox --alluredir=AllureReports
