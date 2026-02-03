@@ -1,0 +1,1 @@
+pytest -v -s -n=auto --html=Html_reports\my_chrome_report_31st_jan_2026.html --browser chrome "--alluredir=AllureReports" "--disable-warnings"
